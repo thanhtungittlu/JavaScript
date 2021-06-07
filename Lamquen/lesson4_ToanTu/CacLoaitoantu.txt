@@ -1,0 +1,48 @@
+1. Toán tử số học  - arithmetic : 
++ 
+- 
+* 
+**: Luy thua
+/: chia 
+%: Chia lay du
+++: Tang 1 gia tri
+--: Giam 1 gia tri
+
+Sự khác nhau giữa prefix (Tiền tố) và postfix(Hậu tố)
+
+Ví dụ: a = 6;
+      output = ++a;
+Tiền tố: ++a : Tăng giá trị cho a xong mới gán a cho output, nên output = 7, và a cũng bằng 7
+
+    a = 6;
+    output = a++;
+Hậu Tố: a++ : Gán giá trị a cho output xong mới thực hiện tăng a, Nên output vẫn bằng 6, nhưng a = 7
+
+
+2. Toán tử gán - assignment : 
+
+=
++=   
+-=
+*=
+/=
+**=
+
+
+
+3. Toán tử so sánh - comparison:
+
+ > 
+ < 
+ ==  Chỉ quan tâm đến value.  
+ === Quan tâm cả value và cả kiểu dữ liệu
+ !=  Chỉ quan tâm đến value
+ !== Quan tâm cả value và cả kiểu dữ liệu
+ >=
+ <=
+
+4. Toán tử logic - logical : 
+
+. && - and
+. || - or
+. ! - not

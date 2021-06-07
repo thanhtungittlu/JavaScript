@@ -1,0 +1,15 @@
+1: Kiểu dữ liệu nguyên thủy - primitive data
+- Number
+- String
+- Boolean
+- Undefined
+- null
+- Symbol 
+2: Kiểu dữ liệu phức tạp - complex dât
+- function
+- Object : Kiểu có 2 giá trị key và value
+
+
+Kiểm trả loại kiểu dữ liệu: console.log(typeof TenBien)
+
+Đặc biệt console.log(typeof null) là Object

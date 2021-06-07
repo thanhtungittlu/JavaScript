@@ -1,0 +1,17 @@
+1:Khai bao
+2: 1 So case su dung backslash (\)
+- \'  hoặc \" để thêm 1 dấu ' hoặc " trong chuỗi
+- \\  để ghi 1 dấu \
+- ...
+3: Độ dài chuỗi b:
+b.length
+4: Chú ý độ dài khi viết code
+5: Template string es6
+
+var firstName = "Tung"
+var lastName = "Le"
+
+console.log("Toi la: ", firstName + " " + lastName) Đây là cách của phiên bản cũ viết
+
+console.log(`Toi la: ${firstName} ${lastName} `) // Phiên bản es6
+
