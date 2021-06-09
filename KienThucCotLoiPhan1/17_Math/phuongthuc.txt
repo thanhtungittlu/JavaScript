@@ -1,0 +1,8 @@
+- Math.PI : lấy số pi
+- Math.round() : Làm tròn thành số nguyên
+- Math.abc() : Trị tuyệt đối
+- Math.ceil() : Làm tròn trên
+- Math.floor() : Làm tròn dưới
+- Math.random() : Cho số ngẫu nhiên từ 0 - 1
+- Math.min()
+- Math.max()
