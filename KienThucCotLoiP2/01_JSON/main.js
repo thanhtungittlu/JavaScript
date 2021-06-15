@@ -11,5 +11,13 @@
 // Stringify: JavaScript types -> JSON
 // parse: từ JSON -> JavaScript types
 
-var json = '"Lê Thanh Tùng"'
-console.log
+var jsonString = '"Tuổi 16"' // string
+console.log(JSON.parse(jsonString))
+var jsonArray = '["js","c++","PHP"]' // array
+console.log(JSON.parse(jsonArray))
+var jsonObject = '{"NAME":"SonDang", "age":18}'
+console.log(JSON.parse(jsonObject))
+
+console.log(JSON.stringify(16))
+console.log(JSON.stringify(["js","alo"]))
+console.log(JSON.stringify({NAME:"SonDang", age:18}))

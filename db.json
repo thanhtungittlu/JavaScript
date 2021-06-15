@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Kiến thức cơ bản",
+      "description": "Học những thứ basic"
+    },
+    {
+      "name": "Học NodeJS nâng cao",
+      "description": "Học NodeJS hay lắm",
+      "id": 2
+    }
+  ]
+}

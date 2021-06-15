@@ -34,7 +34,7 @@ console.log(languges.toString())
 
 // 2. join -> Biến mảng thành chuỗi, nhưng có thể bỏ hoặc thêm ký tự giữa các phần tử
 
-console.log(languges.join(' '))
+console.log(languges.join(''))
 
 // 3. pop -> Xóa phần tử cuối của mảng, và trả về chính phần tử đã xóa. // Sau khi mảng hết phần tử thì sẽ trả về undefined
 

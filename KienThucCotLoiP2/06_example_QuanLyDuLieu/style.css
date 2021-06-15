@@ -1,0 +1,12 @@
+ul>li{
+    display: flex;
+    font-size: 24px
+}
+
+ul>li>.time {
+    width: 50px;
+}
+ul>li>.name {
+    margin-left: 40px;
+    width: 400px;
+}
